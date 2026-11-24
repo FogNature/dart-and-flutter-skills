@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dart List BLoCs"
+  short_description: "Build BLoCs with Freezed and injectable"
+  default_prompt: "Use $dart-list-blocs to build a list BLoC with an existing repository."
